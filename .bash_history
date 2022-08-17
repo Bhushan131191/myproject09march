@@ -511,3 +511,221 @@ ls
 git init
 systemctl status jenkins
 systemctl start jenkins
+ls
+vim Deals
+git add.
+git add .
+git commit -m "done"
+ls
+git push origin master
+ls
+sudo su -
+ls
+git status
+git init
+systemctl status jenkins
+ls
+vim touch.txt
+ls
+rm touch.txt 
+ls
+git branch
+git checkout master
+ls
+git init
+systemctl start jenkins
+git branch
+git remote add origin https://github.com/Bhushan131191/myproject09march.git
+git remote -v
+ls
+git remote rm
+git remote rm https://github.com/Bhushan131191/myproject09march.git
+git remote rm https://github.com/Bhushan131191/FinalAssignment1.git
+git remote -v
+git remote rm origin
+ls
+git remote -v
+git remote add origin https://github.com/Bhushan131191/myproject09march.git
+ls
+git remote -v
+git remote add origin2 https://github.com/Bhushan131191/FinalAssignment1.git
+ls
+git remote rm origin1
+git remote rm origin2
+ls
+git remote -v
+ls
+git push Deals
+git push origin
+git push origin master
+git branch
+ls
+git push origin master
+git pull origin master
+ls
+git pull origin master
+ls
+cd Assignment1/
+ls
+cpwd
+pwd
+cd --
+ls
+git rm Deals 
+ls
+git push origin master
+git remote -v
+ls
+git pull origin master
+ls
+cd Assignment1/
+ls
+pwd
+cd --
+ls
+pwd
+rm -r Assignment1/
+yes
+ls
+git status
+git init
+systemctl status jenkins
+ls
+systemctl status jenkins
+ls
+pwd
+ls al
+ls -al
+cat .giot
+cat .git'
+
+
+
+
+
+
+.
+
+
+
+
+
+
+ls
+git init
+systemctl status jenkisn
+systemctl status jenkins
+git status
+ls -al
+cd .git/
+ls
+cd --
+ls
+pwd
+ls
+mkdir Gitdemo
+cd Gitdemo/
+ls
+mkdir project
+cd project/
+git init
+ls -al
+vim file1
+ls
+vim file2
+ls
+git status
+git add file1
+git status
+git commit -m "commit file1"
+ls
+git ls- files
+git ls-files
+ls
+git status
+git add file2
+git status
+git commit -m "commit file2"
+ls
+git log
+git log --oneline
+git show 2a9ab1c
+ls
+git init
+git status
+systemctl status jenkins
+systemctl start jenkins
+gitshow
+git show
+git log oneline--
+git logoneline--
+git log oneline--
+git log
+git log oneline-
+git log oneline--
+git log oneline --
+las
+ls
+git log--onrlinr
+git log-- oneline
+git log oneline--
+git status
+git log oneline --
+ls
+gi init
+git init
+git status
+git ls-files
+git ls-al
+ls-al
+git ls -al
+git log--oneline
+git log --oneline
+git status
+git show
+ls
+cat index1.html 
+git log --oneline
+git show diff 04492b4 0386025
+git diff 04492b4
+ls
+clear
+ls
+clear
+ls
+pwd
+git status
+ls
+git init
+git status
+ls
+clear
+ls
+git init
+ls
+cd Gitdemo/
+ls
+pr
+ls
+git log
+git log --oneline
+ls
+clear
+git log --oneline
+git show 04492b4
+git show c522bd6
+git show
+ls
+clear
+ls
+git status
+git init
+git ls-files
+ls
+git ls-files
+ls
+git init
+git status
+ls
+vim index2.html
+ls
