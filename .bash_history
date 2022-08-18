@@ -729,3 +729,29 @@ git status
 ls
 vim index2.html
 ls
+git init
+git show
+clear
+git status
+git add file.java 
+git commit -m "java file added"
+git ls -files
+git ls-files
+ls
+vim file.java 
+git status
+git diff file.java
+git rm file.java 
+git add.
+git commit -m "done"
+git rm file.java 
+git add .
+clear
+git status
+git rm file.java 
+git add file.java 
+git status
+git commit -m "done"
+git status
+git rm file.java 
+clear

@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1660718714,,"wq!"
+|2,0,1660805131,,"wq!"
 :Wq
 |2,0,1660634051,,"Wq"
 :wq
@@ -32,38 +32,84 @@
 |3,1,36,0,1,0,1660716488,"d"
 
 # File marks:
-'0  4  13  ~/file.java
-|4,48,4,13,1660718714,"~/file.java"
-'1  4  0  ~/file.java
-|4,49,4,0,1660717498,"~/file.java"
-'2  5  45  ~/index1.html
-|4,50,5,45,1660716501,"~/index1.html"
-'3  5  37  ~/index1.html
-|4,51,5,37,1660716217,"~/index1.html"
-'4  5  38  ~/index1.html
-|4,52,5,38,1660715781,"~/index1.html"
-'5  5  38  ~/index1.html
-|4,53,5,38,1660715781,"~/index1.html"
-'6  1  18  ~/index2.html
-|4,54,1,18,1660634072,"~/index2.html"
-'7  3  34  ~/index1.html
-|4,55,3,34,1657524577,"~/index1.html"
-'8  3  34  ~/index1.html
-|4,56,3,34,1657524577,"~/index1.html"
-'9  3  34  ~/index1.html
-|4,57,3,34,1657524577,"~/index1.html"
+'0  8  49  ~/index1.html
+|4,48,8,49,1660805131,"~/index1.html"
+'1  1  0  ~/index1
+|4,49,1,0,1660805074,"~/index1"
+'2  4  13  ~/file.java
+|4,50,4,13,1660718714,"~/file.java"
+'3  4  0  ~/file.java
+|4,51,4,0,1660717498,"~/file.java"
+'4  5  45  ~/index1.html
+|4,52,5,45,1660716501,"~/index1.html"
+'5  5  45  ~/index1.html
+|4,53,5,45,1660716501,"~/index1.html"
+'6  5  37  ~/index1.html
+|4,54,5,37,1660716217,"~/index1.html"
+'7  5  37  ~/index1.html
+|4,55,5,37,1660716217,"~/index1.html"
+'8  5  38  ~/index1.html
+|4,56,5,38,1660715781,"~/index1.html"
+'9  5  38  ~/index1.html
+|4,57,5,38,1660715781,"~/index1.html"
 
 # Jumplist (newest first):
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  1  0  ~/index1
+|4,39,1,0,1660805074,"~/index1"
+-'  1  0  ~/index1
+|4,39,1,0,1660805074,"~/index1"
+-'  4  13  ~/file.java
+|4,39,4,13,1660718714,"~/file.java"
+-'  4  13  ~/file.java
+|4,39,4,13,1660718714,"~/file.java"
+-'  4  13  ~/file.java
+|4,39,4,13,1660718714,"~/file.java"
 -'  4  13  ~/file.java
 |4,39,4,13,1660718714,"~/file.java"
 -'  5  0  ~/file.java
 |4,39,5,0,1660718699,"~/file.java"
+-'  5  0  ~/file.java
+|4,39,5,0,1660718699,"~/file.java"
+-'  5  0  ~/file.java
+|4,39,5,0,1660718699,"~/file.java"
+-'  5  0  ~/file.java
+|4,39,5,0,1660718699,"~/file.java"
+-'  4  0  ~/file.java
+|4,39,4,0,1660717498,"~/file.java"
+-'  4  0  ~/file.java
+|4,39,4,0,1660717498,"~/file.java"
+-'  4  0  ~/file.java
+|4,39,4,0,1660717498,"~/file.java"
 -'  4  0  ~/file.java
 |4,39,4,0,1660717498,"~/file.java"
 -'  1  0  ~/file.java
 |4,39,1,0,1660717421,"~/file.java"
 -'  1  0  ~/file.java
 |4,39,1,0,1660717421,"~/file.java"
+-'  1  0  ~/file.java
+|4,39,1,0,1660717421,"~/file.java"
+-'  1  0  ~/file.java
+|4,39,1,0,1660717421,"~/file.java"
+-'  1  0  ~/file.java
+|4,39,1,0,1660717421,"~/file.java"
+-'  1  0  ~/file.java
+|4,39,1,0,1660717421,"~/file.java"
+-'  1  0  ~/file.java
+|4,39,1,0,1660717421,"~/file.java"
+-'  1  0  ~/file.java
+|4,39,1,0,1660717421,"~/file.java"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660716501,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660716501,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660716501,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660716501,"~/index1.html"
 -'  5  45  ~/index1.html
 |4,39,5,45,1660716501,"~/index1.html"
 -'  5  45  ~/index1.html
@@ -80,6 +126,22 @@
 |4,39,5,37,1660716217,"~/index1.html"
 -'  5  37  ~/index1.html
 |4,39,5,37,1660716217,"~/index1.html"
+-'  5  37  ~/index1.html
+|4,39,5,37,1660716217,"~/index1.html"
+-'  5  37  ~/index1.html
+|4,39,5,37,1660716217,"~/index1.html"
+-'  5  37  ~/index1.html
+|4,39,5,37,1660716217,"~/index1.html"
+-'  5  37  ~/index1.html
+|4,39,5,37,1660716217,"~/index1.html"
+-'  5  38  ~/index1.html
+|4,39,5,38,1660715781,"~/index1.html"
+-'  5  38  ~/index1.html
+|4,39,5,38,1660715781,"~/index1.html"
+-'  5  38  ~/index1.html
+|4,39,5,38,1660715781,"~/index1.html"
+-'  5  38  ~/index1.html
+|4,39,5,38,1660715781,"~/index1.html"
 -'  5  38  ~/index1.html
 |4,39,5,38,1660715781,"~/index1.html"
 -'  5  38  ~/index1.html
@@ -112,164 +174,94 @@
 |4,39,3,34,1660715754,"~/index1.html"
 -'  3  34  ~/index1.html
 |4,39,3,34,1660715754,"~/index1.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
--'  1  18  ~/index2.html
-|4,39,1,18,1660634072,"~/index2.html"
 -'  3  34  ~/index1.html
-|4,39,3,34,1657524577,"~/index1.html"
+|4,39,3,34,1660715754,"~/index1.html"
 -'  3  34  ~/index1.html
-|4,39,3,34,1657524577,"~/index1.html"
+|4,39,3,34,1660715754,"~/index1.html"
 -'  3  34  ~/index1.html
-|4,39,3,34,1657524577,"~/index1.html"
+|4,39,3,34,1660715754,"~/index1.html"
 -'  3  34  ~/index1.html
-|4,39,3,34,1657524577,"~/index1.html"
+|4,39,3,34,1660715754,"~/index1.html"
 -'  3  34  ~/index1.html
-|4,39,3,34,1657524577,"~/index1.html"
+|4,39,3,34,1660715754,"~/index1.html"
 -'  3  34  ~/index1.html
-|4,39,3,34,1657524577,"~/index1.html"
+|4,39,3,34,1660715754,"~/index1.html"
 -'  3  34  ~/index1.html
-|4,39,3,34,1657524577,"~/index1.html"
+|4,39,3,34,1660715754,"~/index1.html"
 -'  3  34  ~/index1.html
-|4,39,3,34,1657524577,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524522,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524207,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524207,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524207,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524207,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524207,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524207,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524207,"~/index1.html"
--'  1  51  ~/index1.html
-|4,39,1,51,1657524207,"~/index1.html"
--'  1  0  ~/Gitdemo/project/file2
-|4,39,1,0,1657096177,"~/Gitdemo/project/file2"
--'  1  0  ~/Gitdemo/project/file2
-|4,39,1,0,1657096177,"~/Gitdemo/project/file2"
--'  1  0  ~/Gitdemo/project/file2
-|4,39,1,0,1657096177,"~/Gitdemo/project/file2"
+|4,39,3,34,1660715754,"~/index1.html"
+-'  3  34  ~/index1.html
+|4,39,3,34,1660715754,"~/index1.html"
+-'  3  34  ~/index1.html
+|4,39,3,34,1660715754,"~/index1.html"
+-'  3  34  ~/index1.html
+|4,39,3,34,1660715754,"~/index1.html"
+-'  3  34  ~/index1.html
+|4,39,3,34,1660715754,"~/index1.html"
+-'  3  34  ~/index1.html
+|4,39,3,34,1660715754,"~/index1.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
+-'  1  18  ~/index2.html
+|4,39,1,18,1660634072,"~/index2.html"
 
 # History of marks within files (newest to oldest):
 
-> ~/file.java
-	*	1660718711	0
-	"	4	13
-	^	4	14
-	.	4	13
-	+	4	0
-	+	4	13
-
 > ~/index1.html
-	*	1660716496	0
-	"	5	45
-	^	5	46
-	.	5	45
+	*	1660805127	0
+	"	8	49
+	^	8	50
+	.	8	49
 	+	1	8
 	+	1	45
 	+	1	51
@@ -281,6 +273,19 @@
 	+	3	34
 	+	4	0
 	+	5	45
+	+	8	49
+
+> ~/index1
+	*	1660805071	0
+	"	1	0
+
+> ~/file.java
+	*	1660718711	0
+	"	4	13
+	^	4	14
+	.	4	13
+	+	4	0
+	+	4	13
 
 > ~/index2.html
 	*	1660634070	0
