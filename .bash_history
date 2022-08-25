@@ -755,3 +755,47 @@ git commit -m "done"
 git status
 git rm file.java 
 clear
+ls
+git init
+git status
+ls
+clear
+ls
+vim index1
+ls
+rm index1
+ls
+vim index1.html 
+ls
+git status
+git commit -a -m "added modification"
+git status
+ls
+git show
+clear
+ls-files
+ls -files
+git log --oneline
+git show 583d7c5
+clear
+git log --oneline
+git show 583d7c5
+clear
+git log --oneline
+git show 583d7c5
+git log --oneline
+git show 5f13835
+git show 583d7c5
+clear
+ls
+git init
+git status
+git add index5.html 
+git commit -m "adding index5 file"
+ls
+git status
+vim index5.html 
+git log --oneline
+git diff index5.html
+ls
+git diff 35138af 7bfc1d2
