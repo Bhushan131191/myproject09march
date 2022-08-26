@@ -799,3 +799,18 @@ git log --oneline
 git diff index5.html
 ls
 git diff 35138af 7bfc1d2
+ls
+clear
+git status
+git rm index5.html 
+git add index5.html 
+git status
+git rm index5.html 
+git commit -m "added index5.html"
+git status
+git ls-giles
+git ls-files
+git rm index5.html 
+git ls-files
+clear
+ls

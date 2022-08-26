@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1660976113,,"wq!"
+|2,0,1661409662,,"wq!"
 :Wq
 |2,0,1660634051,,"Wq"
 :wq
@@ -32,36 +32,46 @@
 |3,1,36,0,1,0,1660716488,"d"
 
 # File marks:
-'0  5  43  ~/index5.html
-|4,48,5,43,1660976113,"~/index5.html"
-'1  5  0  ~/index5.html
-|4,49,5,0,1660808666,"~/index5.html"
-'2  1  0  ~/index5
-|4,50,1,0,1660808558,"~/index5"
-'3  1  0  ~/index5.html
-|4,51,1,0,1660808469,"~/index5.html"
+'0  1  13  ~/.git/COMMIT_EDITMSG
+|4,48,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+'1  5  43  ~/index5.html
+|4,49,5,43,1660976113,"~/index5.html"
+'2  5  0  ~/index5.html
+|4,50,5,0,1660808666,"~/index5.html"
+'3  1  0  ~/index5
+|4,51,1,0,1660808558,"~/index5"
 '4  1  0  ~/index5.html
 |4,52,1,0,1660808469,"~/index5.html"
 '5  1  0  ~/index5.html
 |4,53,1,0,1660808469,"~/index5.html"
 '6  1  0  ~/index5.html
 |4,54,1,0,1660808469,"~/index5.html"
-'7  8  49  ~/index1.html
-|4,55,8,49,1660805131,"~/index1.html"
-'8  1  0  ~/index1
-|4,56,1,0,1660805074,"~/index1"
-'9  4  13  ~/file.java
-|4,57,4,13,1660718714,"~/file.java"
+'7  1  0  ~/index5.html
+|4,55,1,0,1660808469,"~/index5.html"
+'8  8  49  ~/index1.html
+|4,56,8,49,1660805131,"~/index1.html"
+'9  1  0  ~/index1
+|4,57,1,0,1660805074,"~/index1"
 
 # Jumplist (newest first):
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
 -'  5  43  ~/index5.html
 |4,39,5,43,1660976113,"~/index5.html"
+-'  5  43  ~/index5.html
+|4,39,5,43,1660976113,"~/index5.html"
+-'  5  0  ~/index5.html
+|4,39,5,0,1660808666,"~/index5.html"
 -'  5  0  ~/index5.html
 |4,39,5,0,1660808666,"~/index5.html"
 -'  1  0  ~/index5.html
 |4,39,1,0,1660808643,"~/index5.html"
 -'  1  0  ~/index5.html
 |4,39,1,0,1660808643,"~/index5.html"
+-'  1  0  ~/index5.html
+|4,39,1,0,1660808643,"~/index5.html"
+-'  1  0  ~/index5.html
+|4,39,1,0,1660808643,"~/index5.html"
 -'  1  0  ~/index5
 |4,39,1,0,1660808558,"~/index5"
 -'  1  0  ~/index5
@@ -70,6 +80,18 @@
 |4,39,1,0,1660808558,"~/index5"
 -'  1  0  ~/index5
 |4,39,1,0,1660808558,"~/index5"
+-'  1  0  ~/index5
+|4,39,1,0,1660808558,"~/index5"
+-'  1  0  ~/index5
+|4,39,1,0,1660808558,"~/index5"
+-'  1  0  ~/index5
+|4,39,1,0,1660808558,"~/index5"
+-'  1  0  ~/index5
+|4,39,1,0,1660808558,"~/index5"
+-'  1  0  ~/index5.html
+|4,39,1,0,1660808469,"~/index5.html"
+-'  1  0  ~/index5.html
+|4,39,1,0,1660808469,"~/index5.html"
 -'  1  0  ~/index5.html
 |4,39,1,0,1660808469,"~/index5.html"
 -'  1  0  ~/index5.html
@@ -106,6 +128,70 @@
 |4,39,8,49,1660805131,"~/index1.html"
 -'  8  49  ~/index1.html
 |4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  8  49  ~/index1.html
+|4,39,8,49,1660805131,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
+-'  5  45  ~/index1.html
+|4,39,5,45,1660805098,"~/index1.html"
 -'  5  45  ~/index1.html
 |4,39,5,45,1660805098,"~/index1.html"
 -'  5  45  ~/index1.html
@@ -168,94 +254,15 @@
 |4,39,1,0,1660805074,"~/index1"
 -'  1  0  ~/index1
 |4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  1  0  ~/index1
-|4,39,1,0,1660805074,"~/index1"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
--'  4  13  ~/file.java
-|4,39,4,13,1660718714,"~/file.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1661409659	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
 > ~/index5.html
 	*	1660976110	0
