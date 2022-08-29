@@ -814,3 +814,21 @@ git rm index5.html
 git ls-files
 clear
 ls
+git status
+git add .
+git status
+git commit -m "done"
+git status
+touch file1.log file2.txt
+ls
+git status
+vim .gitignore
+ls
+vim .gitignore
+git status
+ls
+git add .
+git status
+git commit -m "adding .gitignore"
+git status
+git ls-files
