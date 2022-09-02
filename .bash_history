@@ -832,3 +832,15 @@ git status
 git commit -m "adding .gitignore"
 git status
 git ls-files
+ls
+git branch
+git checkout f
+git chceckout f1
+git checkout f1
+git branch f1
+git checkout f1
+git branch
+git checkout master
+git branch -d f1
+git branch
+git status

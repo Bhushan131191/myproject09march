@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1661760211,,"wq!"
+|2,0,1662120129,,"wq!"
 :Wq
 |2,0,1660634051,,"Wq"
 :wq
@@ -33,37 +33,77 @@
 
 # File marks:
 '0  1  27  ~/products
-|4,48,1,27,1661760211,"~/products"
-'1  4  8  ~/.gitignore
-|4,49,4,8,1661496089,"~/.gitignore"
-'2  2  0  ~/.gitignore
-|4,50,2,0,1661495953,"~/.gitignore"
-'3  2  0  ~/.gitignore
-|4,51,2,0,1661495953,"~/.gitignore"
-'4  1  13  ~/.git/COMMIT_EDITMSG
-|4,52,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
-'5  5  43  ~/index5.html
-|4,53,5,43,1660976113,"~/index5.html"
-'6  5  0  ~/index5.html
-|4,54,5,0,1660808666,"~/index5.html"
-'7  1  0  ~/index5
-|4,55,1,0,1660808558,"~/index5"
-'8  1  0  ~/index5.html
-|4,56,1,0,1660808469,"~/index5.html"
-'9  1  0  ~/index5.html
-|4,57,1,0,1660808469,"~/index5.html"
+|4,48,1,27,1662120129,"~/products"
+'1  1  27  ~/products
+|4,49,1,27,1662120044,"~/products"
+'2  1  27  ~/products
+|4,50,1,27,1661760211,"~/products"
+'3  1  27  ~/products
+|4,51,1,27,1661760211,"~/products"
+'4  4  8  ~/.gitignore
+|4,52,4,8,1661496089,"~/.gitignore"
+'5  2  0  ~/.gitignore
+|4,53,2,0,1661495953,"~/.gitignore"
+'6  2  0  ~/.gitignore
+|4,54,2,0,1661495953,"~/.gitignore"
+'7  1  13  ~/.git/COMMIT_EDITMSG
+|4,55,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+'8  5  43  ~/index5.html
+|4,56,5,43,1660976113,"~/index5.html"
+'9  5  0  ~/index5.html
+|4,57,5,0,1660808666,"~/index5.html"
 
 # Jumplist (newest first):
+-'  1  27  ~/products
+|4,39,1,27,1662120129,"~/products"
+-'  1  27  ~/products
+|4,39,1,27,1662120044,"~/products"
 -'  1  27  ~/products
 |4,39,1,27,1661760211,"~/products"
 -'  4  8  ~/.gitignore
 |4,39,4,8,1661496089,"~/.gitignore"
 -'  4  8  ~/.gitignore
 |4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1661496060,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1661495953,"~/.gitignore"
 -'  2  0  ~/.gitignore
@@ -76,6 +116,78 @@
 |4,39,1,0,1661495866,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
 -'  1  13  ~/.git/COMMIT_EDITMSG
 |4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
 -'  1  13  ~/.git/COMMIT_EDITMSG
@@ -124,141 +236,29 @@
 |4,39,5,43,1660976113,"~/index5.html"
 -'  5  43  ~/index5.html
 |4,39,5,43,1660976113,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  5  0  ~/index5.html
-|4,39,5,0,1660808666,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5.html
-|4,39,1,0,1660808643,"~/index5.html"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
--'  1  0  ~/index5
-|4,39,1,0,1660808558,"~/index5"
+-'  5  43  ~/index5.html
+|4,39,5,43,1660976113,"~/index5.html"
+-'  5  43  ~/index5.html
+|4,39,5,43,1660976113,"~/index5.html"
+-'  5  43  ~/index5.html
+|4,39,5,43,1660976113,"~/index5.html"
+-'  5  43  ~/index5.html
+|4,39,5,43,1660976113,"~/index5.html"
+-'  5  43  ~/index5.html
+|4,39,5,43,1660976113,"~/index5.html"
+-'  5  43  ~/index5.html
+|4,39,5,43,1660976113,"~/index5.html"
+-'  5  43  ~/index5.html
+|4,39,5,43,1660976113,"~/index5.html"
+-'  5  43  ~/index5.html
+|4,39,5,43,1660976113,"~/index5.html"
+-'  5  43  ~/index5.html
+|4,39,5,43,1660976113,"~/index5.html"
 
 # History of marks within files (newest to oldest):
 
 > ~/products
-	*	1661760209	0
+	*	1662120126	0
 	"	1	27
 	^	1	28
 	.	1	28
