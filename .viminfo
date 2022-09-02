@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1662120312,,"wq!"
+|2,0,1662120738,,"wq!"
 :wq
 |2,0,1662120308,,"wq"
 :Wq
@@ -32,20 +32,20 @@
 |3,1,36,0,1,0,1660716488,"d"
 
 # File marks:
-'0  4  8  ~/.gitignore
-|4,48,4,8,1662120312,"~/.gitignore"
-'1  1  27  ~/products
-|4,49,1,27,1662120129,"~/products"
+'0  1  32  ~/product123
+|4,48,1,32,1662120738,"~/product123"
+'1  4  8  ~/.gitignore
+|4,49,4,8,1662120312,"~/.gitignore"
 '2  1  27  ~/products
-|4,50,1,27,1662120044,"~/products"
+|4,50,1,27,1662120129,"~/products"
 '3  1  27  ~/products
-|4,51,1,27,1661760211,"~/products"
+|4,51,1,27,1662120044,"~/products"
 '4  1  27  ~/products
 |4,52,1,27,1661760211,"~/products"
-'5  4  8  ~/.gitignore
-|4,53,4,8,1661496089,"~/.gitignore"
-'6  2  0  ~/.gitignore
-|4,54,2,0,1661495953,"~/.gitignore"
+'5  1  27  ~/products
+|4,53,1,27,1661760211,"~/products"
+'6  4  8  ~/.gitignore
+|4,54,4,8,1661496089,"~/.gitignore"
 '7  2  0  ~/.gitignore
 |4,55,2,0,1661495953,"~/.gitignore"
 '8  2  0  ~/.gitignore
@@ -54,6 +54,10 @@
 |4,57,2,0,1661495953,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  1  32  ~/product123
+|4,39,1,32,1662120738,"~/product123"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
 -'  4  8  ~/.gitignore
 |4,39,4,8,1662120312,"~/.gitignore"
 -'  1  27  ~/products
@@ -61,9 +65,21 @@
 -'  1  27  ~/products
 |4,39,1,27,1662120129,"~/products"
 -'  1  27  ~/products
+|4,39,1,27,1662120129,"~/products"
+-'  1  27  ~/products
+|4,39,1,27,1662120129,"~/products"
+-'  1  27  ~/products
 |4,39,1,27,1662120044,"~/products"
 -'  1  27  ~/products
 |4,39,1,27,1662120044,"~/products"
+-'  1  27  ~/products
+|4,39,1,27,1662120044,"~/products"
+-'  1  27  ~/products
+|4,39,1,27,1662120044,"~/products"
+-'  1  27  ~/products
+|4,39,1,27,1661760211,"~/products"
+-'  1  27  ~/products
+|4,39,1,27,1661760211,"~/products"
 -'  1  27  ~/products
 |4,39,1,27,1661760211,"~/products"
 -'  1  27  ~/products
@@ -84,6 +100,22 @@
 |4,39,4,8,1661496089,"~/.gitignore"
 -'  4  8  ~/.gitignore
 |4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1661496089,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1661496060,"~/.gitignore"
 -'  2  0  ~/.gitignore
@@ -102,6 +134,40 @@
 |4,39,2,0,1661496060,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661496060,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1661495953,"~/.gitignore"
 -'  2  0  ~/.gitignore
@@ -152,110 +218,51 @@
 |4,39,1,0,1661495866,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1661495866,"~/.gitignore"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
 -'  1  13  ~/.git/COMMIT_EDITMSG
 |4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/product123
+	*	1662120735	0
+	"	1	32
+	^	1	33
+	.	1	32
+	+	1	32
 
 > ~/.gitignore
 	*	1662120310	0
