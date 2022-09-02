@@ -844,3 +844,70 @@ git checkout master
 git branch -d f1
 git branch
 git status
+git init
+ls
+git ls-log
+git ls --oneline
+git log --oneline
+git branch
+git checkout f1
+git ls -files
+ls -al
+git status
+git ls-remote
+clear
+git branch
+git checkout master
+git merge f1 master
+git branch -d f1
+git branch
+ls
+git branch
+git branch f1
+gir branch
+git branch 
+git checkout f1
+git log --oneline
+git branch b2
+git checkout b2
+git log --oneline
+git branch
+vim products
+git log -oneline
+git log --oneline
+git status
+ls
+git status
+vim products
+git status
+git ls-files
+git status
+git commit -m "adding products"
+git status
+git add .
+git commit -m "done"
+git status
+git log --oneline
+git show cd8071f
+vim .gitignore
+git branch
+git checkout master
+git branch -d b2
+ls
+git status
+git checkout master
+git add .
+git commit '-m "done"
+
+
+
+
+
+
+
+wq!
+
+
+
+
+

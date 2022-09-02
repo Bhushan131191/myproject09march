@@ -12,11 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1662120129,,"wq!"
+|2,0,1662120312,,"wq!"
+:wq
+|2,0,1662120308,,"wq"
 :Wq
 |2,0,1660634051,,"Wq"
-:wq
-|2,0,1657096161,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -32,32 +32,40 @@
 |3,1,36,0,1,0,1660716488,"d"
 
 # File marks:
-'0  1  27  ~/products
-|4,48,1,27,1662120129,"~/products"
+'0  4  8  ~/.gitignore
+|4,48,4,8,1662120312,"~/.gitignore"
 '1  1  27  ~/products
-|4,49,1,27,1662120044,"~/products"
+|4,49,1,27,1662120129,"~/products"
 '2  1  27  ~/products
-|4,50,1,27,1661760211,"~/products"
+|4,50,1,27,1662120044,"~/products"
 '3  1  27  ~/products
 |4,51,1,27,1661760211,"~/products"
-'4  4  8  ~/.gitignore
-|4,52,4,8,1661496089,"~/.gitignore"
-'5  2  0  ~/.gitignore
-|4,53,2,0,1661495953,"~/.gitignore"
+'4  1  27  ~/products
+|4,52,1,27,1661760211,"~/products"
+'5  4  8  ~/.gitignore
+|4,53,4,8,1661496089,"~/.gitignore"
 '6  2  0  ~/.gitignore
 |4,54,2,0,1661495953,"~/.gitignore"
-'7  1  13  ~/.git/COMMIT_EDITMSG
-|4,55,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
-'8  5  43  ~/index5.html
-|4,56,5,43,1660976113,"~/index5.html"
-'9  5  0  ~/index5.html
-|4,57,5,0,1660808666,"~/index5.html"
+'7  2  0  ~/.gitignore
+|4,55,2,0,1661495953,"~/.gitignore"
+'8  2  0  ~/.gitignore
+|4,56,2,0,1661495953,"~/.gitignore"
+'9  2  0  ~/.gitignore
+|4,57,2,0,1661495953,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  1  27  ~/products
+|4,39,1,27,1662120129,"~/products"
 -'  1  27  ~/products
 |4,39,1,27,1662120129,"~/products"
 -'  1  27  ~/products
 |4,39,1,27,1662120044,"~/products"
+-'  1  27  ~/products
+|4,39,1,27,1662120044,"~/products"
+-'  1  27  ~/products
+|4,39,1,27,1661760211,"~/products"
 -'  1  27  ~/products
 |4,39,1,27,1661760211,"~/products"
 -'  4  8  ~/.gitignore
@@ -93,7 +101,7 @@
 -'  2  0  ~/.gitignore
 |4,39,2,0,1661496060,"~/.gitignore"
 -'  2  0  ~/.gitignore
-|4,39,2,0,1661495953,"~/.gitignore"
+|4,39,2,0,1661496060,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1661495953,"~/.gitignore"
 -'  2  0  ~/.gitignore
@@ -108,6 +116,8 @@
 |4,39,2,0,1661495953,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1661495953,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1661495953,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1661495866,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -140,6 +150,8 @@
 |4,39,1,0,1661495866,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1661495866,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1661495866,"~/.gitignore"
 -'  1  13  ~/.git/COMMIT_EDITMSG
 |4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
 -'  1  13  ~/.git/COMMIT_EDITMSG
@@ -204,58 +216,54 @@
 |4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
 -'  1  13  ~/.git/COMMIT_EDITMSG
 |4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
--'  5  43  ~/index5.html
-|4,39,5,43,1660976113,"~/index5.html"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1661409662,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1662120310	0
+	"	4	8
+	^	4	9
+	.	4	8
+	+	1	60
+	+	4	8
 
 > ~/products
 	*	1662120126	0
@@ -263,14 +271,6 @@
 	^	1	28
 	.	1	28
 	+	1	28
-
-> ~/.gitignore
-	*	1661496086	0
-	"	4	8
-	^	4	9
-	.	4	8
-	+	1	60
-	+	4	8
 
 > ~/.git/COMMIT_EDITMSG
 	*	1661409659	0
