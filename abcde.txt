@@ -1,1 +1,0 @@
-Hi this file is to check the merge command

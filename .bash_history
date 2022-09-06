@@ -1,19 +1,3 @@
-ls
-git clone https://github.com/Bhushan131191/Assignment1.git
-yum install git
-yum install jenkins
-yum install jenkins -y
-git init
-git status
-git branch
-git branch f1
-git clone https://github.com/Bhushan131191/Assignment1.git
-git branch 
-git branch f1
-ls
-pwd
-cd Assignment1/
-ls
 cd sample-project/
 ls
 cat index.html 
@@ -911,3 +895,106 @@ wq!
 
 
 
+git init
+git sttaus
+git status
+git ls-files
+ls
+git branch 
+git checkout master
+git add .
+git status
+git commit -m "done"
+git status
+git checkout master
+git merge b2 master
+git branch -d b2
+clear
+git log--oneline
+git log --oneline
+git branch
+git branch -d f1
+git log --oneline
+git branch b2
+git chekcout b2
+git checkout b2
+vim product123
+ls
+git checkout master
+ls
+git log --oneloine
+git log --oneline
+git add .
+git status
+git commit -m "adding new product file"
+git status
+git log --oneline
+git branch
+git checkout b2
+git status
+git reset--hard 481bd9c
+git reset --hard 481bd9c
+ls
+git status
+git log --oneline
+git reset --hard 481bd9c
+git log --oneline
+git show 481bd9c
+vim product123
+clear
+git ls-files
+git branch
+git checkout master
+git branch -d b2
+git branch c1
+git checkout c1
+vim abcde.txt
+git status
+git add .
+git status
+git commit -m "added abcde file"
+git status
+git log --oneline
+git checkout master
+git merge c1 master
+git log --oneline
+clear
+git branch
+ls
+git checkout c1
+ls
+vim 123.java
+ls
+git checkout master
+ls
+rm 123.java 
+rm abcde.txt 
+rm -f file1.log 
+rm -f file2.txt 
+rm -f index1.html index2.html product123 products
+ls
+clear
+git branch
+git checkout c1
+ls
+vim index1.html
+ls
+git sttaus
+git status
+ls
+git branch
+git checkout master
+ls
+git checkout c1
+git add -
+git add index1.html 
+git status
+git commit -m "this is new index file"
+git status
+git log --oneline
+git checkout master
+git merge c1 master
+git log --oneline
+git branch
+git branch -d c1
+git branch
