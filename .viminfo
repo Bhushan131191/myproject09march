@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1662122299,,"wq!"
+|2,0,1662462496,,"wq!"
 :wq
 |2,0,1662120308,,"wq"
 :Wq
@@ -32,34 +32,50 @@
 |3,1,36,0,1,0,1660716488,"d"
 
 # File marks:
-'0  1  18  ~/index1.html
-|4,48,1,18,1662122299,"~/index1.html"
-'1  1  40  ~/123.java
-|4,49,1,40,1662122114,"~/123.java"
-'2  1  41  ~/abcde.txt
-|4,50,1,41,1662121522,"~/abcde.txt"
-'3  1  31  ~/product123
-|4,51,1,31,1662121197,"~/product123"
-'4  1  32  ~/product123
-|4,52,1,32,1662120738,"~/product123"
-'5  4  8  ~/.gitignore
-|4,53,4,8,1662120312,"~/.gitignore"
-'6  1  27  ~/products
-|4,54,1,27,1662120129,"~/products"
+'0  1  53  ~/product12.html
+|4,48,1,53,1662462496,"~/product12.html"
+'1  1  18  ~/index1.html
+|4,49,1,18,1662122299,"~/index1.html"
+'2  1  40  ~/123.java
+|4,50,1,40,1662122114,"~/123.java"
+'3  1  41  ~/abcde.txt
+|4,51,1,41,1662121522,"~/abcde.txt"
+'4  1  31  ~/product123
+|4,52,1,31,1662121197,"~/product123"
+'5  1  32  ~/product123
+|4,53,1,32,1662120738,"~/product123"
+'6  4  8  ~/.gitignore
+|4,54,4,8,1662120312,"~/.gitignore"
 '7  1  27  ~/products
-|4,55,1,27,1662120044,"~/products"
+|4,55,1,27,1662120129,"~/products"
 '8  1  27  ~/products
-|4,56,1,27,1661760211,"~/products"
+|4,56,1,27,1662120044,"~/products"
 '9  1  27  ~/products
 |4,57,1,27,1661760211,"~/products"
 
 # Jumplist (newest first):
+-'  1  53  ~/product12.html
+|4,39,1,53,1662462496,"~/product12.html"
+-'  1  18  ~/index1.html
+|4,39,1,18,1662122299,"~/index1.html"
 -'  1  18  ~/index1.html
 |4,39,1,18,1662122299,"~/index1.html"
 -'  1  40  ~/123.java
 |4,39,1,40,1662122114,"~/123.java"
 -'  1  40  ~/123.java
 |4,39,1,40,1662122114,"~/123.java"
+-'  1  40  ~/123.java
+|4,39,1,40,1662122114,"~/123.java"
+-'  1  40  ~/123.java
+|4,39,1,40,1662122114,"~/123.java"
+-'  1  41  ~/abcde.txt
+|4,39,1,41,1662121522,"~/abcde.txt"
+-'  1  41  ~/abcde.txt
+|4,39,1,41,1662121522,"~/abcde.txt"
+-'  1  41  ~/abcde.txt
+|4,39,1,41,1662121522,"~/abcde.txt"
+-'  1  41  ~/abcde.txt
+|4,39,1,41,1662121522,"~/abcde.txt"
 -'  1  41  ~/abcde.txt
 |4,39,1,41,1662121522,"~/abcde.txt"
 -'  1  41  ~/abcde.txt
@@ -84,6 +100,38 @@
 |4,39,1,31,1662121197,"~/product123"
 -'  1  31  ~/product123
 |4,39,1,31,1662121197,"~/product123"
+-'  1  31  ~/product123
+|4,39,1,31,1662121197,"~/product123"
+-'  1  31  ~/product123
+|4,39,1,31,1662121197,"~/product123"
+-'  1  31  ~/product123
+|4,39,1,31,1662121197,"~/product123"
+-'  1  31  ~/product123
+|4,39,1,31,1662121197,"~/product123"
+-'  1  31  ~/product123
+|4,39,1,31,1662121197,"~/product123"
+-'  1  31  ~/product123
+|4,39,1,31,1662121197,"~/product123"
+-'  1  31  ~/product123
+|4,39,1,31,1662121197,"~/product123"
+-'  1  31  ~/product123
+|4,39,1,31,1662121197,"~/product123"
+-'  1  32  ~/product123
+|4,39,1,32,1662120738,"~/product123"
+-'  1  32  ~/product123
+|4,39,1,32,1662120738,"~/product123"
+-'  1  32  ~/product123
+|4,39,1,32,1662120738,"~/product123"
+-'  1  32  ~/product123
+|4,39,1,32,1662120738,"~/product123"
+-'  1  32  ~/product123
+|4,39,1,32,1662120738,"~/product123"
+-'  1  32  ~/product123
+|4,39,1,32,1662120738,"~/product123"
+-'  1  32  ~/product123
+|4,39,1,32,1662120738,"~/product123"
+-'  1  32  ~/product123
+|4,39,1,32,1662120738,"~/product123"
 -'  1  32  ~/product123
 |4,39,1,32,1662120738,"~/product123"
 -'  1  32  ~/product123
@@ -164,98 +212,57 @@
 |4,39,4,8,1662120312,"~/.gitignore"
 -'  4  8  ~/.gitignore
 |4,39,4,8,1662120312,"~/.gitignore"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
--'  1  27  ~/products
-|4,39,1,27,1662120129,"~/products"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1662120312,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/product12.html
+	*	1662462490	0
+	"	1	53
+	^	1	54
+	.	1	53
+	+	1	53
 
 > ~/index1.html
 	*	1662122297	0
