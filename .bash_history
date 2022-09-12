@@ -1,5 +1,3 @@
-cd sample-project/
-ls
 cat index.html 
 ls
 cd --
@@ -998,3 +996,5 @@ git log --oneline
 git branch
 git branch -d c1
 git branch
+ls
+git status
