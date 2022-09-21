@@ -1,78 +1,3 @@
-cat index.html 
-ls
-cd --
-clear
-git status
-git init
-git add Assignment1
-git status
-git commit -m "Assignement direc added"
-git log --oneline
-git branch
-git branch f1
-git branch 
-git checkout f1
-git branch 
-git branch master
-git checkout master
-git checkout -b f2
-git branch
-git checkout mast
-git status
-git init
-yum install java
-java --version
-  sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
-  sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
-  yum install epel-release
-    sudo amazon-linux-extras install epel
-yum install jenkins
-systemctl status jenkins
-ls
-git branch 
-ls
-git checkout master
-git branch
-ls
-git branch -d f1
-git branch -d f2
-git branch
-git status
-ls
-git init
-ls
-git add Assignment1/
-git status
-git commit -m "added Assignment1" 
-git add Assignment1/
-git status
-git init
-git status
-ls
-cd Assignment1/
-ls
-cd sample-project/
-ls
-pwd
-cd --
-ls 
-pwd
-git add -all
-yes
-git add Assignment1/
-git status
-git add Assignment1/
-ls
-git status
-git init
-git status
-git add Assignment1
-git status
-git add .
-git status
-git commit -m "first commit"
-git status
-git log --oneline
 git log
 git log --oneline
 ls
@@ -998,3 +923,78 @@ git branch -d c1
 git branch
 ls
 git status
+ls
+rm Gitdemo/
+rmd -f Gitdemo/
+rm -f Gitdemo/
+ls
+rm index1.html 
+rm product12.html 
+ls
+vim planets.md
+git branch planets-before-merge-conflict
+git checkout planets-before-merge-conflict 
+git checkout master
+git add .
+git commit -m "planets.md before merge conflicts"
+git diff master planets-before-merge-conflict 
+git branch
+git branch branch-a
+git branch branch-b
+git diff branch-a branch-b
+git checkout branch-a
+git branch
+ls
+vim planets.md 
+git add .
+git commit -m "sets the correct number of planets"
+git checkout branch-b
+ls
+vim
+vim planets.md 
+git add .
+git commit -m "pluto is not a planet"
+git diff branch-a branch-b
+git log branch-a
+git log branch-b
+git branch
+git checkout planets-before-merge-conflict 
+git checkout -b branch-master
+git merge branch-a
+git log branch-a
+git log --oneline
+git log branch-master
+git branch
+git merge branch-b
+git status
+vim planets.md 
+git add -
+git add .
+git status
+git commit -m "making peace between branch-a and branch -b"
+git log
+git status
+git diff planets-before-merge-conflict 
+git push --all
+git checkout master
+git merge branch-master
+git branch
+git -d branch-a
+git branch -d branch-a
+git branch
+git branch -d branch-b
+git branch
+git branch -d branch-master
+ls
+git branch
+git branch -d planets-before-merge-conflict 
+git branch -d priyanka1 
+ls
+git init
+git branch
+ls
+git init
+git status
+git remote add origin https://github.com/Bhushan131191/myproject12sept.git
+git remote
+git remote -v
